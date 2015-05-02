@@ -11,26 +11,26 @@ cask install bettertouchtool
 cask install cakebrew
 cask install cheatsheet
 cask install coteditor
-cask install dash
+# cask install dash
 cask install dropbox
-cask install evernote
-cask install gyazo
+# cask install evernote
+# cask install gyazo
 cask install google-japanese-ime
 cask install insomniax
 cask install iterm2
 cask install karabiner
 cask install kindle
-cask install kobito
-cask install mplayerx
+# cask install kobito
+# cask install mplayerx
 cask install onyx
 cask install seil
-cask install skitch
-cask install slack
+# cask install skitch
+# cask install slack
 cask install skype
 cask install sophos-anti-virus-home-edition
-cask install sourcetree
+# cask install sourcetree
 cask install startninja
-cask install the-unarchiver
+# cask install the-unarchiver
 cask install virtualbox
 cask install xtrafinder
 
