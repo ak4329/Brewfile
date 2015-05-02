@@ -46,8 +46,8 @@ cask install skitch1
 cask install sublime-text3
 
 ## rcmdnk/file
-tap rcmdnk/file
-install brew-file
+# tap rcmdnk/file
+# install brew-file
 
 ## rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkcask
