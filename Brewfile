@@ -5,7 +5,8 @@ before echo before
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask
+# install brew-cask
+cask install alfred
 cask install appcleaner
 cask install bettertouchtool
 cask install cakebrew
