@@ -6,9 +6,7 @@ before echo before
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
-cask install adobe-reader
 cask install appcleaner
-cask install bathyscaphe
 cask install bettertouchtool
 cask install cakebrew
 cask install cheatsheet
@@ -39,12 +37,13 @@ cask install xtrafinder
 ## caskroom/fonts
 tap caskroom/fonts
 
-## homebrew/versions
-tap homebrew/versions
-install google-chrome-dev
-install firefoxdeveloperedition-ja
+## caskroom/versions
+tap caskroom/versions
+cask install adobe-reader-ja
+cask install google-chrome-dev
+cask install firefoxdeveloperedition-ja
 cask install skitch1
-install sublime-text3
+cask install sublime-text3
 
 ## rcmdnk/file
 tap rcmdnk/file
