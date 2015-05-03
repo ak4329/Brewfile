@@ -29,7 +29,7 @@ cask install seil
 # cask install slack
 cask install skype
 cask install sophos-anti-virus-home-edition
-# cask install sourcetree
+cask install sourcetree
 cask install startninja
 # cask install the-unarchiver
 cask install virtualbox
@@ -43,7 +43,7 @@ tap caskroom/versions
 cask install adobe-reader-ja
 cask install google-chrome-dev
 cask install firefoxdeveloperedition-ja
-cask install skitch1
+#cask install skitch1
 cask install sublime-text3
 
 ## rcmdnk/file
