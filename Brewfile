@@ -66,10 +66,14 @@ install zsh-completions
 
 # App Store applications
 appstore Dash
+appstore Desktop Calendar Plus
 appstore Evernote
 appstore Gyazo
+appstore Keynote
 appstore Kobito
+appstore LINE
 appstore MPlayerX
+appstore PopClip
 appstore Slack
 appstore The Unarchiver
 appstore Xcode
